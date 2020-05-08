@@ -12,7 +12,7 @@ section {
   div {
     flex: 1;
     /* 1 and it will fill whole space left if no flex value are set to other children*/
-    background: #006d6d;
+    background: #fff;  /*color in between cards*/
     overflow: auto;
   }
   

@@ -32,4 +32,8 @@ article {
   img {
     max-width: 100%;
   }
+
+  .blacktheme{
+    background-color: #444;
+  }
   
