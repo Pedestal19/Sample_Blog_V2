@@ -2,3 +2,25 @@
     background-image: url("labour2.jpg");
     background-size: cover;
 }
+
+.share{
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+}
+
+.gmail{
+    content: url("gmail.png");
+}
+
+.facebook{
+    content: url("facebook.png");
+}
+
+.instagram{
+    content: url("twitter.png");
+}
+
+.twitter{
+    content: url("instagram.png");
+}
