@@ -10,17 +10,17 @@
 }
 
 .gmail{
-    content: url("assets/icons/gmail.png");
+    content: url("../assets/icons/gmail.png");
 }
 
 .facebook{
-    content: url("assets/icons/facebook.png");
+    content: url("../assets/icons/facebook.png");
 }
 
 .instagram{
-    content: url("assets/icons/twitter.png");
+    content: url("../assets/icons/twitter.png");
 }
 
 .twitter{
-    content: url("assets/icons/instagram.png");
+    content: url("../assets/icons/instagram.png");
 }
