@@ -1,5 +1,5 @@
 .labour{
-    background-image: url("labour2.jpg");
+    background-image: url("/assets/images/labour2.jpg");
     background-size: cover;
 }
 
@@ -10,17 +10,17 @@
 }
 
 .gmail{
-    content: url("gmail.png");
+    content: url("assets/icons/gmail.png");
 }
 
 .facebook{
-    content: url("facebook.png");
+    content: url("assets/icons/facebook.png");
 }
 
 .instagram{
-    content: url("twitter.png");
+    content: url("assets/icons/twitter.png");
 }
 
 .twitter{
-    content: url("instagram.png");
+    content: url("assets/icons/instagram.png");
 }

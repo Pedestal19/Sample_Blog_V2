@@ -15,10 +15,14 @@ article {
     grid-column: full;
   }
 
-  section:hover {
+  /* section:hover {
     background-color: #78bbbb;
   }
-  
+
+  .nohover {
+    background-color: white !important;
+  }
+   */
   /* Demo Specific Styles */
   body {
     padding: 2em 0;
