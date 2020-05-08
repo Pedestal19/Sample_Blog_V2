@@ -14,6 +14,10 @@ article {
   figure {
     grid-column: full;
   }
+
+  section:hover {
+    background-color: #78bbbb;
+  }
   
   /* Demo Specific Styles */
   body {
