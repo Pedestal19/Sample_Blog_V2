@@ -4,15 +4,11 @@ section {
     height: 100vh;
   }
   
-  header {
-    background: tomato;
-    /* no flex rules, it will grow */
-  }
   
+
   div {
     flex: 1;
-    /* 1 and it will fill whole space left if no flex value are set to other children*/
-    background: #fff;  /*color in between cards*/
+    background: #fff;  
     overflow: auto;
   }
   
@@ -22,7 +18,6 @@ section {
     text-align: center;
     padding: 20px;
     color: aliceblue;
-    /* min-height has its purpose :) , unless you meant height*/
   }
   
   body {

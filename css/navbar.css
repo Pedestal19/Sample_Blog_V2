@@ -46,7 +46,7 @@ a:hover {
 }
 
 
-/* View for mobile */
+/*  mobile */
 
 .menu{
     display: flex;
@@ -58,7 +58,7 @@ a:hover {
 
 
 
-/* Tablet Menu */
+/* Tablet */
 
 @media all and (min-width: 600px){
     .menu {
@@ -77,12 +77,7 @@ a:hover {
         order: 1;
         display: inline;
     }
-    /* .toggle {
-        order: 2;
-    }
-    .button.secondary {
-        border: 0;
-    } */
+    
     .button a {
         padding: 7.5px 15px;
         background: teal;
@@ -103,7 +98,7 @@ a:hover {
     } 
 }
 
-/* Desktop menu */
+/* Desktop  */
 @media all and (min-width: 900px) {
     .item {
         display: block;
